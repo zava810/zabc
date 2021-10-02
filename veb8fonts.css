@@ -1,0 +1,220 @@
+@font-face {
+    font-family: 'u8zf';
+    src: url('veb8fonts/u8zf.woff2') format('woff2'),
+        url('veb8fonts/u8zf.woff') format('woff'),
+        url('veb8fonts/u8zf.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap; unicode-range: U+0-9F;
+}
+
+@font-face {
+    font-family: 'u8v';
+    src: url('veb8fonts/u8v.woff2') format('woff2'),
+        url('veb8fonts/u8v.woff') format('woff'),
+        url('veb8fonts/u8v.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap; unicode-range: U+0-9F;
+}
+
+@font-face {
+    font-family: 'u8';
+    src: url('veb8fonts/u8.woff2') format('woff2'),
+        url('veb8fonts/u8.woff') format('woff'),
+        url('veb8fonts/u8.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap; unicode-range: U+0-9F;
+}
+
+@font-face {
+    font-family: 'Hinglish';
+    src: url('veb8fonts/Hinglish.woff2') format('woff2'),
+        url('veb8fonts/Hinglish.woff') format('woff'),
+        url('veb8fonts/Hinglish.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap; unicode-range: U+0-9F;
+}
+
+@font-face {
+    font-family: 'Hnskrit';
+    src: url('veb8fonts/Hnskrit.woff2') format('woff2'),
+        url('veb8fonts/Hnskrit.woff') format('woff'),
+        url('veb8fonts/Hnskrit.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap; unicode-range: U+0-9F;
+}
+
+@font-face {
+    font-family: 'HinDi';
+    src: url('veb8fonts/HinDi.woff2') format('woff2'),
+        url('veb8fonts/HinDi.woff') format('woff'),
+        url('veb8fonts/HinDi.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap; unicode-range: U+0-9F;
+}
+
+@font-face {
+    font-family: 'u8z';
+    src: url('veb8fonts/u8z.woff2') format('woff2'),
+        url('veb8fonts/u8z.woff') format('woff'),
+        url('veb8fonts/u8z.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap; unicode-range: U+0-9F;
+}
+
+@font-face {
+    font-family: 'u5hp';
+    src: url('veb8fonts/u5hp.woff2') format('woff2'),
+        url('veb8fonts/u5hp.woff') format('woff'),
+        url('veb8fonts/u5hp.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap; unicode-range: U+0-9F;
+}
+
+@font-face {
+    font-family: 'u5c';
+    src: url('veb8fonts/u5c.woff2') format('woff2'),
+        url('veb8fonts/u5c.woff') format('woff'),
+        url('veb8fonts/u5c.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap; unicode-range: U+0-9F;
+}
+
+@font-face {
+    font-family: 'u5cdot';
+    src: url('veb8fonts/u5cdot.woff2') format('woff2'),
+        url('veb8fonts/u5cdot.woff') format('woff'),
+        url('veb8fonts/u5cdot.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap; unicode-range: U+0-9F;
+}
+
+@font-face {
+    font-family: 'u5h';
+    src: url('veb8fonts/u5h.woff2') format('woff2'),
+        url('veb8fonts/u5h.woff') format('woff'),
+        url('veb8fonts/u5h.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap; unicode-range: U+0-9F;
+}
+
+@font-face {
+    font-family: 'u5cn';
+    src: url('veb8fonts/u5cn.woff2') format('woff2'),
+        url('veb8fonts/u5cn.woff') format('woff'),
+        url('veb8fonts/u5cn.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap; unicode-range: U+0-9F;
+}
+
+@font-face {
+    font-family: 'u5c_mono';
+    src: url('veb8fonts/u5c_mono.woff2') format('woff2'),
+        url('veb8fonts/u5c_mono.woff') format('woff'),
+        url('veb8fonts/u5c_mono.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap; unicode-range: U+0-9F;
+}
+
+@font-face {
+    font-family: 'binary_vertical_u82';
+    src: url('veb8fonts/binary_vertical_u82.woff2') format('woff2'),
+        url('veb8fonts/binary_vertical_u82.woff') format('woff'),
+        url('veb8fonts/binary_vertical_u82.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap; unicode-range: U+0-9F;
+}
+
+@font-face {
+    font-family: 'u5p';
+    src: url('veb8fonts/u5p.woff2') format('woff2'),
+        url('veb8fonts/u5p.woff') format('woff'),
+        url('veb8fonts/u5p.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap; unicode-range: U+0-9F;
+}
+
+@font-face {
+    font-family: 'u5';
+    src: url('veb8fonts/u5.woff2') format('woff2'),
+        url('veb8fonts/u5.woff') format('woff'),
+        url('veb8fonts/u5.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap; unicode-range: U+0-9F;
+}
+
+@font-face {
+    font-family: 'ssu5p';
+    src: url('veb8fonts/ssu5p.woff2') format('woff2'),
+        url('veb8fonts/ssu5p.woff') format('woff'),
+        url('veb8fonts/ssu5p.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap; unicode-range: U+0-9F;
+}
+
+@font-face {
+    font-family: 'binary_horizontal_u5c2';
+    src: url('veb8fonts/binary_horizontal_u5c2.woff2') format('woff2'),
+        url('veb8fonts/binary_horizontal_u5c2.woff') format('woff'),
+        url('veb8fonts/binary_horizontal_u5c2.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap; unicode-range: U+0-9F;
+}
+
+@font-face {
+    font-family: 'binary_vertical_u5hp2';
+    src: url('veb8fonts/binary_vertical_u5hp2.woff2') format('woff2'),
+        url('veb8fonts/binary_vertical_u5hp2.woff') format('woff'),
+        url('veb8fonts/binary_vertical_u5hp2.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap; unicode-range: U+0-9F;
+}
+
+@font-face {
+    font-family: 'binary_horizontal_u82';
+    src: url('veb8fonts/binary_horizontal_u82.woff2') format('woff2'),
+        url('veb8fonts/binary_horizontal_u82.woff') format('woff'),
+        url('veb8fonts/binary_horizontal_u82.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap; unicode-range: U+0-9F;
+}
+
+@font-face {
+    font-family: 'binary_vertical_u5c2';
+    src: url('veb8fonts/binary_vertical_u5c2.woff2') format('woff2'),
+        url('veb8fonts/binary_vertical_u5c2.woff') format('woff'),
+        url('veb8fonts/binary_vertical_u5c2.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap; unicode-range: U+0-9F;
+}
+
+@font-face {
+    font-family: 'binary_horizontal_u5hp2';
+    src: url('veb8fonts/binary_horizontal_u5hp2.woff2') format('woff2'),
+        url('veb8fonts/binary_horizontal_u5hp2.woff') format('woff'),
+        url('veb8fonts/binary_horizontal_u5hp2.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap; unicode-range: U+0-9F;
+}
+
