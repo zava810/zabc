@@ -1,4 +1,4 @@
-# zabc is small case abc , phonics based
+# [zabc is small case abc , phonics based](https://zbuk.netlify.app/)
 
 ![](cart/phoniks_smal.png)
 
